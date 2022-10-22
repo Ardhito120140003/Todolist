@@ -1,4 +1,4 @@
-# UTS - PAM | 120140003
+# UTS - PAM - RA | 120140003
 ## Nama Aplikasi : Todolist
 ## Deskripsi Aplikasi
 Aplikasi ini dibangun dengan react native dan expo.
